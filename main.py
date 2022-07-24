@@ -21,5 +21,4 @@ print(f"Studenci, ktorzy zdali test na BDB to : {top_students}")
 best_student = sorted(exam_points.items())
 print(f"Najlepszym studentem jest", best_student[0])
 print(f"Zmiana 1")
-
-print("Zmiana zupdate'owana")
+print("Zrobione :)")
